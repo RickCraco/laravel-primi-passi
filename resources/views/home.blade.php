@@ -8,5 +8,9 @@
 <body>
     <h1>Hello world</h1>
     <p>Ciao mi chiamo {{$name . ' ' . $surname}}</p>
+    <ul>
+        <li><a href="/home">home</a></li>
+        <li><a href="/about">about</a></li>
+    </ul>
 </body>
 </html>
