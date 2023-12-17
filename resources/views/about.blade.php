@@ -8,7 +8,7 @@
 <body>
     <h1>About</h1>
     <ul>
-        <li><a href="/home">home</a></li>
+        <li><a href="/">home</a></li>
         <li><a href="/about">about</a></li>
     </ul>
 </body>
