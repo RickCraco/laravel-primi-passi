@@ -19,8 +19,8 @@ Route::get('/', function () {
         'surname' => 'Doe',
     ];
     return view('home', $name);
-});
+})->name('home');
 
 Route::get('/about', function(){
     return view('about');
-});
+})->name('about');
